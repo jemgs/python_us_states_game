@@ -5,7 +5,7 @@ A simple game built with Python's Turtle graphics module and pandas library that
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/us-states-game.git
+git clone https://github.com/jemgs/python_us_states_game.git
 
 2. Navigate to the project directory:
 cd us-states-game
